@@ -2,7 +2,7 @@
 - 👀 I’m not interesting
 - 🌱 I’m have learning difficulties
 - 💞️ I'm alone
-- 📫 How to reach me ...
+- 📫 You can't reach me
 
 <!---
 alfred-indra/alfred-indra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
