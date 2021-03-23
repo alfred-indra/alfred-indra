@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfred-indra
 - 👀 I’m not interesting
-- 🌱 I’m have learning difficulties
+- 🌱 I have learning difficulties
 - 💞️ I'm alone
 - 📫 You can't reach me
 
